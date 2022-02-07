@@ -2,7 +2,7 @@
 Create a project that calls service created above, pass text from input file ‘GoLang_Test.txt’ and prints JSONoutput returned from the service. 
 
 # EndPoint
-localhost:8099/upload
+POST API: localhost:8099/upload
 
 # Request
 upload a .txt file from postman as a form-data with key GoLang_Test
